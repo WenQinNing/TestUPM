@@ -1,15 +1,16 @@
 ﻿{
-    "name": "com.unity.test",
-    "version": "1.2.3",
-    "displayName": "Package Test",
+    "name": "com.Test.TestUPMReceive",
+    "version": "1.0.0",
+    "displayName": "Package Example",
     "description": "This is an example package",
     "unity": "2019.1",
     "unityRelease": "0b5",
     "keywords": [
-        "test"
+        "keyword1"
     ],
     "author": {
         "name": "Unity",
-        "url": "https://www.baidu.com/"
+        "email": "1095471150@qq.com",
+        "url": "https://www.unity3d.com"
     }
 }
